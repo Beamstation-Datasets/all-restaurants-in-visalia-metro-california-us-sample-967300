@@ -1,0 +1,12 @@
+{
+  "export_job_id": "db788e83-e9d9-4f3a-ae1d-91ff75932578",
+  "id_short": 967300,
+  "published_at": "2026-04-15T19:10:11Z",
+  "repo_name": "all-restaurants-in-visalia-metro-california-us-sample-967300",
+  "sample_asset_name": "beamstation_967300_restaurants-us-visaliaca_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/967300/beamstation_967300_restaurants-us-visaliaca_SAMPLE_DIST.csv",
+  "sample_records": 50,
+  "sample_sha256": "b1b4b77ab87912af75ceba063b65e063efd162433860b71afa29d5283d05818b",
+  "sample_size_bytes": 204360,
+  "total_records": 457
+}
