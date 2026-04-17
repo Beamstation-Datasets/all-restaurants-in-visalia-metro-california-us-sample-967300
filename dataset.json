@@ -6,17 +6,17 @@
   "config_category": "census",
   "config_description": "Metro-wide restaurant data for the Visalia (Metro), California metropolitan area, spanning Visalia. Covers a growing metropolitan dining market, filtered by the Restaurants category group. Includes verified business profiles, review analytics, competitive rankings, and contact details. Refreshed weekly.",
   "config_name": "All Restaurants in Visalia (Metro), California, US",
-  "export_job_id": "db788e83-e9d9-4f3a-ae1d-91ff75932578",
+  "export_job_id": "77bbf162-3e89-4e73-85aa-d446ee1caf63",
   "github_org": "Beamstation-Datasets",
   "id_short": 967300,
   "location_name": "Visalia, CA",
   "location_type": "metro",
   "repo_name": "all-restaurants-in-visalia-metro-california-us-sample-967300",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/967300/beamstation_967300_restaurants-us-visaliaca_SAMPLE_DIST.csv",
-  "sample_pct": 10.94,
+  "sample_pct": 9.86,
   "sample_records": 50,
   "sample_sha256": "b1b4b77ab87912af75ceba063b65e063efd162433860b71afa29d5283d05818b",
   "sample_size_bytes": 204360,
-  "total_records": 457,
-  "updated_at": "2026-03-31T14:08:28.335847+00:00"
+  "total_records": 507,
+  "updated_at": "2026-04-14T14:41:16.957572+00:00"
 }
