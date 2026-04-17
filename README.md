@@ -9,9 +9,9 @@
 | Dataset ID | `967300` |
 | Location | Visalia, CA |
 | Category | Restaurants |
-| Full dataset size | 457 records |
-| Free sample size | 50 records (10.94%) |
-| Last export | 2026-03-31T14:08:28.335847+00:00 |
+| Full dataset size | 507 records |
+| Free sample size | 50 records (9.86%) |
+| Last export | 2026-04-14T14:41:16.957572+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-visalia-metro-california-us-sample-967300/releases/download/sample-latest/beamstation_967300_restaurants-us-visaliaca_SAMPLE_DIST.csv) |
 
 ## What is in this sample
